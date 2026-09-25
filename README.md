@@ -5,12 +5,16 @@ Notas e takeaways do evento Grok Bot Galaxy (SpaceXAI, 15-17 set 2026) para serv
 ## Fontes
 - Day 1: https://x.com/i/broadcasts/1AxRnZbVpjaxl
 - Day 2: https://x.com/i/broadcasts/1PKqrNyvmYwGb
-- Day 3: pendente (começa 8:30am PST)
+- Day 3: https://x.com/i/broadcasts/1YGNrbXEeazGw (completo até end card 07:58:23)
+- Capture público: https://github.com/Roenel/Grok-Bot-Galaxy-Notes (TIMELINE-day3.md + notes/day3)
+- Site do produto 72h: https://thursdayarena.com
+- Recordings: https://x.ai/galaxy
 
 ## Estrutura
-- `day1/` — takeaways e resumos do Day 1
-- `day2/` — takeaways e resumos do Day 2
-- `bot-base/` — material pronto pra alimentar o Grok Bot Galaxy Mentor
+- `day1/` — takeaways Day 1
+- `day2/` — takeaways Day 2
+- `day3/` — takeaways Day 3 (MarOps, Post-Sales, Marketing, showcase)
+- `bot-base/` — material do Mentor
 
 ## Aviso
-Não há transcrição oficial de áudio. As notas são baseadas em slides, UI e síntese pública. Não inventar o que não foi ensinado.
+Não há transcrição oficial de áudio. Notas são slide/UI-first. Não inventar o que não foi ensinado.
