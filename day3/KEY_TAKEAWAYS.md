@@ -1,16 +1,20 @@
 # Day 3 — Key takeaways (17/09/2026)
 
-Fonte primária: Roenel/Grok-Bot-Galaxy-Notes TIMELINE-day3.md + notes/day3/remainder1–27.
-Broadcast: Building a company in 3 days - launching today! (X 1YGNrbXEeazGw). Capture DVR completo até end card 07:58:23. Sem CC.
+Fonte primária: Roenel/Grok-Bot-Galaxy-Notes commit 218ebb6, TIMELINE-day3.md + notes/day3/remainder1–27.
+Broadcast: Building a company in 3 days - launching today! (X 1YGNrbXEeazGw). DVR completo até end card 07:58:23. Sem CC. Notas são slide/UI-first.
+X pós-evento confirma o produto: Thursday Arena, auto-battler browser grátis, thursdayarena.com. Sem card de wrap nomeado no fim.
 
 ## Showcase / produto 72h
-- Nome: **Thursday Arena** (auto-battler browser, grátis). Site: thursdayarena.com.
-- Paralelo no stream: jogo **Cupcake** (rounds, leaderboard, KPI de win rate no slide ~41.8% — métrica de jogo, não de receita).
-- Time no palco: Matt Palmer, Lauren Tan, Roshan Sadanani.
-- O que as notas mostram que *funcionou*: produto jogável no dia 3; dogfood de bots no GTM; lead deck; stack post-sales com *Drafts only. Nothing sent.*; CoS na frente; rotinas nomeadas (daily brief, call prep, unfinished promises, ask watch).
-- Fricção visível (não inventar causa): BRBs longos, hold Slack/WAF, slates de crédito/promo, capture de terceiros com Chrome crash. Nenhuma receita hotel/Dono foi demonstrada.
+- Nome público: **Thursday Arena**. UI e X-card também mostram **Cupcake** — os dois rótulos coexistiram no stream. Não escolher um como “o oficial” além do site.
+- Core loop no whiteboard (remainder27): Draft 3 → Lineup → Auto battle → Result / share.
+- MVP factory visível: Chief chaos → Bake Rx PR → Play test → Review/approve → Land main.
+- KPIs on-screen 16:15 PT (jogo, não receita): practice sessions ~4.884; segundo número de practice ~378; 2 players 1.902; map matches 1.794; public matches 6.546; total X users cumulative 1.902.
+- Billboard: “NEXT WEEK’S BILLBOARD — ONE AD SLOT, OPEN AUCTION”, starts at $1. Form de bid visível. Não tratar sample de anúncio como cliente real.
+- End card: só “Grok Bot Galaxy” + “Follow @bot on X for more.” Sem title card de Final Showcase.
+- O que as notas mostram que funcionou: produto jogável no dia; dogfood de bots; lead deck; drafts-only no pós-venda; CoS na frente.
+- Fricção visível: BRBs longos, hold Slack/WAF, promo de crédito só flagada, Lauren avisou no X que estava buggy. Nenhuma receita de hotel/Dono foi demonstrada.
 
-## Marketing Operations
+## Marketing Operations (remainder2–3, visual)
 Slide RevOps & MarOps use cases:
 - Create a self-completing to-do list
 - Build tools, not just rules
@@ -19,36 +23,40 @@ Slide RevOps & MarOps use cases:
 - Get help with territory planning
 - Keep your CRM clean, once and for all
 
-Lead queue (demo Sofia Reyes / Meridian Analytics):
-- **Accept** — CRM-safe: não muda campo CRM na hora; status muda quando o rep alcança; automação rastreia atividade.
-- **Reject** — picklist de motivo + notas opcionais.
-- **Skip** — só local; pode reaparecer.
-- Workflow só marca *done* depois de queued/confirmed.
+Time no slide: OP-1 (Chief of Staff), Fisher (Executive Assistant), Juno (Product Manager), Ondes (Engineer).
 
-Time no slide: OP-1 (CoS), Fisher (EA), Juno (PM), Ondes (Engineer).
+Lead Deck (Juno, card Sofia Reyes — dummy):
+- Aceitar = entra em sequência de follow-up; CRM continua source of truth; write-back só nos campos certos.
+- Rejeitar = encerra no CRM com end reason.
+- Skip = pode ser local e reaparecer (pergunta aberta no próprio demo).
+- Ação off-limits só depois de queued/confirmed.
 
-## Post-Sales
-Use cases: Morning Status Board · Follow-up Desk · Ask Watch · Call Prep · Promise Keeper · Account Reset.
-- Board: calendário + Slack + notas da noite → 1 movimento por conta; send list cap 3.
-- Follow-up Desk: draft email + nota interna na voz; humano envia; lembra clean vs edited.
-- Ask Watch: só o que *você* mandou e não voltou; nunca responde por você.
-- Call Prep: ~20 min antes — quem está na sala, 1 coisa a travar, talking points com links.
-- Promise Keeper: promessa ligada à origem.
-- Account Reset: uma conta te afogou → monta calendário/Slack/transcripts/promises/next moves.
+What we learned (MarOps):
+- Staff your dream team like an exec.
+- Give bots agency and guardrails. Messages e CRM writes não saem sem você. Governed agency > each-time ou YOLO.
+- You are a product manager. Your product is revenue.
 
-Time: Gus (CoS), Frankie (Follow Ups), Wally (voz), Trudy (source of truth), Scout (radar), Account (1 por conta).
+## Post-Sales (remainder16, visual)
+UI Dream Team: Gus na frente; Franny Form, Wally Writer, Truly Truth, Frankie Follow Up, Scout. Harbor = conta.
+Copy visível: “Harbor post-call prep ready. Drafts only. Nothing sent.”
+Rotinas no painel: Daily brief weekdays 8:30 AM · Call prep · Unfinished promises · Ask watch.
+Staff meeting: CoS chama os especialistas e volta com o que fazer na hora livre. Quiet até voltar.
 
-UI Harbor: *post-call prep ready. Drafts only. Nothing sent.*
-Rotinas visíveis: Daily brief weekdays 8:30 · Call prep · Unfinished promises · Ask watch.
+What we learned (pós-venda):
+- Start with a voice dump (o que energiza, o que frustra, o que entregar).
+- Put one bot in front (CoS = porta e roteador).
+- Make it a living system (correção + review semanal).
 
-What we learned (slide): Start with a voice dump · Put one bot in front · Make it a living system.
+Rótulos de slide em fonte secundária (grokbot.guru, não Roenel frame): Morning Status Board, Call Prep, Follow-up Cook, Promise Keeper, Ask Watch, Account Radar; copy “Draft only. Never send as Blake.” Tratar como slide-visible de terceiro, não como transcrição Roenel.
 
 ## Marketing
-- Cerebro (on-screen): ICP → Clay → outbound plays → Amplemarket — claims de UI, não verificados.
+- Cerebro on-screen: ICP → Clay → outbound plays → Amplemarket. Claim de UI, não verificado.
 - Slides: Launching Marketing campaign, Project Manager, funnel snapshot, marketing sheet, QR → marketplace.
+- Funnel snapshot visto em fonte secundária: practice started 3.255 / completed 762 / converted 210. Não cruzar com os KPIs 16:15 PT como se fossem a mesma linha.
 
-## O que NÃO estava no Day 1–2 e entra agora
-- Fila Accept/Reject/Skip com CRM-safe accept e skip local.
-- Ask Watch + Promise Keeper + Account Reset.
-- Drafts only / nothing sent como slogan de produto.
+## O que não estava no Day 1–2
+- Fila Accept/Reject/Skip com CRM como source of truth e write-back governado.
+- Drafts only / nothing sent como copy de produto.
 - Voice dump → desenha o stack; living system = correção + review semanal.
+- CoS chama staff meeting e só volta com a decisão da hora.
+- Ship loop: play test → review/approve → land main. Humano no merge.
