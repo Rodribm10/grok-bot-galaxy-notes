@@ -49,10 +49,19 @@ What we learned (pós-venda):
 
 Rótulos de slide em fonte secundária (grokbot.guru, não Roenel frame): Morning Status Board, Call Prep, Follow-up Cook, Promise Keeper, Ask Watch, Account Radar; copy “Draft only. Never send as Blake.” Tratar como slide-visible de terceiro, não como transcrição Roenel.
 
-## Marketing
-- Cerebro on-screen: ICP → Clay → outbound plays → Amplemarket. Claim de UI, não verificado.
-- Slides: Launching Marketing campaign, Project Manager, funnel snapshot, marketing sheet, QR → marketplace.
-- Funnel snapshot visto em fonte secundária: practice started 3.255 / completed 762 / converted 210. Não cruzar com os KPIs 16:15 PT como se fossem a mesma linha.
+## Marketing (remainder22, 06:06–06:25, visual)
+Slide “Launching a Marketing campaign”, seis cards: Market Research; Ideate and vet positioning; Update website; Tactics, ads, monitor ads; Analyze & monitor performance; Automate the process.
+Time no slide: Market Researcher, Product Marketer, Website Ops, Performance Marketer, Marketing Analyst, Project Manager.
+Cadeia visível, não verificada fora da tela:
+- Market Researcher entrega pack.
+- Product Marketer gera brief, positioning/ICP, one-liners, e puxa pack fresco.
+- Website Ops: “Open in Cursor” a partir do outline; status pede o brief mais novo.
+- Performance Marketer abre planilha de campanha.
+- Marketing Analyst devolve scorecard com colunas Spent, CTR, CPC/CPA, ROAS e lista Strategy + assets.
+- Project Manager aparece idle no fim do recorte.
+Sem name card de Josh Kim neste recorte Roenel.
+Cerebro (remainder13, UI): ICP → Clay → outbound plays → Amplemarket. Claim de tela, não verificado.
+Funnel snapshot em fonte secundária: practice started 3.255 / completed 762 / converted 210. Não cruzar com os KPIs 16:15 PT.
 
 ## O que não estava no Day 1–2
 - Fila Accept/Reject/Skip com CRM como source of truth e write-back governado.
@@ -60,3 +69,4 @@ Rótulos de slide em fonte secundária (grokbot.guru, não Roenel frame): Mornin
 - Voice dump → desenha o stack; living system = correção + review semanal.
 - CoS chama staff meeting e só volta com a decisão da hora.
 - Ship loop: play test → review/approve → land main. Humano no merge.
+- Cadeia de marketing com pack → brief → Cursor → scorecard, sem publish no meio.
